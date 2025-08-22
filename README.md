@@ -12,4 +12,8 @@ This is *Italic*
 
 ### This is an image
 
-![This is another cat](https://www.worldsbestcatlitter.com/wp-content/uploads/2019/12/02_coughing-cat-meme.jpg)
+![This is Chihuahua](https://pbs.twimg.com/media/FhaWkwcXgAAejB6.jpg)
+
+### Journal Entries
+
+Visit my [Journal 01](journal/8262025_entry.md)
