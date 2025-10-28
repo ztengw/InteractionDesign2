@@ -1,6 +1,6 @@
 # Chp 4 of DOET
 
-## PART 1
+### PART 1
 
 There are limitations to many objects and things in this world. In this chapter, 4 part 1, Don Norman explores the four kinds of constraints: Physical, Cultural, Semantic, and Logical.
 
