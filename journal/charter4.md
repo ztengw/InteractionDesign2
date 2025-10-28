@@ -4,7 +4,7 @@ There are limitations to many objects and things in this world. In this chapter,
 
 Physical Constraints are what limit the process/function/operation. For example, you can't fit a triple-A battery into a double-A battery slot.
 
-Cultural Constraints are about what is not allowed in other cultures, trying to be kind and respectful towards other cultures, and avoiding violating other cultures. For example, Malaysian Chinese people are **NOT** from China, and we are not Malays, we are Malaysian.
+Cultural Constraints are about what is not allowed in other cultures, trying to be kind and respectful towards other cultures, and avoiding violating other cultures. For example, Chinese people use serving chopsticks to get the food they want and use another chopstick for eating, so they don't share their saliva.
 
 Semantic constraints are the study of meaning and limits that rely on the meaning of the situation to control what actions you can do. For example, if you are eating cookies, and the packet only has 10, you couldn’t have 11.
 
